@@ -1,6 +1,6 @@
 
 
-class border {
+class Border {
     constructor(A, B) {
         this.A = A
         this.B = B
